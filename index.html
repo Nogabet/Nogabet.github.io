@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% for post in paginator.posts %}
+<section>
+  <h2>
+    <a href='{{ site.url }}{{ post.url }}'>
+    </a>
+  </h2>
+
+  <body>
+    “Practical men who believe themselves to be quite exempt from any intellectual influence, are usually the slaves of some defunct economist. Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back”
+    ― John Maynard Keynes  
+  </body>
+</section>       
+{% endfor %}
