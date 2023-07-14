@@ -187,7 +187,7 @@
     fill: var(--dl-color-gray-white);
   }
   .notes-mobile-menu {
-    display: flex;
+    display: none;
   }
 }
 @media(max-width: 479px) {

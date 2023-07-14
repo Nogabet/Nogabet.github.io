@@ -262,7 +262,7 @@
     fill: var(--dl-color-gray-white);
   }
   .home-mobile-menu {
-    display: flex;
+    display: none;
   }
 }
 @media(max-width: 479px) {
