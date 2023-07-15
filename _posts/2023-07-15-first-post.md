@@ -4,5 +4,5 @@ title: "My first post and the start of all future posts"
 categories: misc
 ---
 
-It's been a while since I feel like creating a blog website for myself. I have made several attempts before, but none of those attempts are satisfactory. Thankfully, by taking advantage of jekyll and minima theme, I successfully made myself a usable blog post website and I'm happy with it so far.
+It's been a while since I felt like creating a blog website for myself. I've made several attempts before, but none of them were satisfactory. Fortunately, by leveraging Jekyll and the Minima theme, I have successfully built a functional blog post website, and I'm quite pleased with it so far.
 
