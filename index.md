@@ -9,4 +9,4 @@ layout: home
 ---
 
 Welcome! I'm a graduate student in economics. This website keeps a record of my graduate life.
-!(/picture/dujiangyan-1500w.jpg)
+![dujiangyan-1500w](.\picture\dujiangyan-1500w.jpg)
