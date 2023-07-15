@@ -8,5 +8,5 @@
 layout: home
 ---
 
-Welcome! I'm a graduate student in economics. This website keeps a record of my graduate life.
-![dujiangyan-1500w](.\picture\dujiangyan-1500w.jpg)
+Welcome! I'm a graduate student in economics. This website keeps a record of my graduate student life.
+<img src=".\picture\dujiangyan-1500w.jpg" alt="dujiangyan-1500w" style="zoom:67%;" />
