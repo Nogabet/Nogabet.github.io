@@ -9,4 +9,6 @@ layout: home
 ---
 
 Welcome! I'm a graduate student in economics. This website keeps a record of my graduate student life.
+<p align="center">
 <img src=".\picture\dujiangyan-1500w.jpg" alt="dujiangyan-1500w" style="zoom:67%;" />
+</p>
