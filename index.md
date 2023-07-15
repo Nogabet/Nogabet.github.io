@@ -8,4 +8,5 @@
 layout: home
 ---
 
-Welcome! I'm a graduate student in economics. I use this website to keep a record of my graduate life.
+Welcome! I'm a graduate student in economics. This website keeps a record of my graduate life.
+!(/picture/dujiangyan-1500w.jpg)
